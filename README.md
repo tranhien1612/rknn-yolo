@@ -1,5 +1,7 @@
 # rknn-yolo
 
+Fuction: Read image from sensor camera (/dev/videoX), detect object and stream via rtsp: rtsp://<ip-device>:8554/stream
+
 ## Install mediamtx
 ```
     wget https://github.com/bluenviron/mediamtx/releases/download/v1.11.0/mediamtx_v1.11.0_linux_arm64v8.tar.gz
